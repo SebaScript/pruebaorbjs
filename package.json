@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "orb": "^1.0.9"
+    "orb": "^1.0.9",
+    "react": "^0.12.2"
   }
 }
